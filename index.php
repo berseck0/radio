@@ -12,7 +12,7 @@
  	<h1>La Radio de Casa</h1>
  	<nav>
  		<ul>
- 			<li>inicio</li>
+ 			<li class="acti">inicio</li>
  			<li>canales</li>
  			<li>canciones</li>
  			<li>contacto</li>
